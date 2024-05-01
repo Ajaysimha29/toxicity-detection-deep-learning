@@ -12,4 +12,4 @@ To run the deep learning model, you need to follow these steps:
 2. Upload to Google Drive Upload the downloaded dataset to your Google Drive. This step is necessary for accessing the data in Colab or any other Google Colab environment.
 
 3. Run the Cells: Once the dataset is uploaded, you can run the provided code cells in your preferred environment. Make sure to follow any additional instructions provided within the code.
-4. At last we can see the loacl host for model which was deployed in gradio.
+4. At last we can see the local host for model which was deployed in gradio.
